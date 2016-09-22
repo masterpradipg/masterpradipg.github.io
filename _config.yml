@@ -9,7 +9,7 @@
 locale                   : "en"
 title                    : "Site Title"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "Pradip"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               :masterpradipg
 facebook:
   username               :
   app_id                 :
@@ -77,10 +77,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  name             : "Pradip"
+  avatar           : "https://yotcha-properties.s3.amazonaws.com/646576656c6f706d656e74/8e296a067a37563370ded05f5a3bf3ec/69c38782-5180-4dbc-a305-92611001c5f5/de07f6c6-bdad-4104-8618-a4538058e0a4.jpg"
+  bio              : "Fork me up"
+  location         : "Kathmandu"
   email            :
   uri              :
   bitbucket        :
